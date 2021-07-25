@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Credits
 
-It is a work on https://github.com/abuanwar072, and not my original.
+It is a work of https://github.com/abuanwar072, and not my original.
+
 I am just copying it for the sack of practice.
